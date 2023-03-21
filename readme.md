@@ -1,6 +1,6 @@
 # Hi, I'm Dona!
 
-![alt text](/Users/dona/Desktop)
+![Alt-Text](/Users/dona/Desktop)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=Linkedin&logoColor=blue&link=[https://www.linkedin.com/feed/?trk=guest_homepage-basic_nav-header-signin)](https://www.linkedin.com/in/donatella-crisante-134372112/)
 
