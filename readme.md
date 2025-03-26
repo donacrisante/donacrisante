@@ -2,7 +2,7 @@
 
 ![Image Annapurna](https://nepal.de/wp-content/uploads/sites/46/2019/02/nepal-annapurna-sued-NEP_2014_1JHO_Annapurna_South-1000x636.jpg)
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/donatella-crisante-134372112/)
+[![Linkedin](https://i.sstatic.net/gVE0j.png)(https://www.linkedin.com/in/donatella-crisante-134372112/)
 
 Welcome to my profile! I come from Switzerland and have been living in Heidelberg since August 2020. I studied German and Italian at the University of Basel and completed my Master's degree in multidisciplinary translation in Brussels. Previously, I worked as a project manager in the translation industry and also freelanced for the Flossenbürg concentration camp memorial site, transcribing French interviews of concentration camp survivors.
 
