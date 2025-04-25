@@ -13,7 +13,7 @@ I’m passionate about continuing to grow in the tech industry and am excited to
 ## My hobbies 🚲 🏃‍♀️ 🏊‍♀️
 
 1. Jogging
-2. Trail Runs
+2. Trailrunning
 3. Cycling
 4. Swimming
 5. Hiking
